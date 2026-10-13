@@ -1,7 +1,7 @@
 # Lab 1 · Intro to Behavioral TV Data (PMA-3-1 · Fall 2026)
 
-**Student:** <Name Surname>
-**Group:** <Group>
+**Student:** Oleksii Volkov
+**Group:** KM-42
 
 ## Files
 
