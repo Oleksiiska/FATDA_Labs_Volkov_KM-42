@@ -6,3 +6,4 @@
 ## Files
 
 - `lab1.ipynb`: the notebook with all four tasks (code, plots and written answers).
+- `lab2.ipynb`: the notebook with all outputs (code, plots and written answers).
