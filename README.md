@@ -8,3 +8,4 @@
 - `lab1.ipynb`: the notebook with all four tasks (code, plots and written answers).
 - `lab2.ipynb`: the notebook with all outputs (code, plots and written answers).
 - `lab3.ipynb`: the notebook with all outputs (code, plots and written answers).
+- `lab4.ipynb`: the notebook with all outputs (code, written answers and bonus).
